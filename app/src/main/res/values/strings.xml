@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SmartTv_01.00</string>
+    <string name="video_act_1">DESBLOQUEA UN MUNDO DE OFERTAS</string>
+    <string name="video_act_2">PRESIONA AQUI</string>
+    <string name="camera_permission_confirmation">This app demonstrates the usage of CameraView. In order to do that, it needs permission to access camera.</string>
+    <string name="camera_permission_not_granted">Camera app cannot do anything without camera permission.</string>
+
+    <string-array name="ideo_act_1_fading">
+        <item>DESBLOQUEA UN MUNDO DE </item>
+        <item>OFERTAS</item>
+        <item>OPORTUNIDADES</item>
+        <item>Y MUCHO MAS</item>
+    </string-array>
+
+    <string-array name="ideo_act_2_fading">
+        <item>PRESIONA AQUI</item>
+        <item>PRESIONA AQUI</item>
+
+    </string-array>
+
+    <string-array name="recog_act_1_fading">
+    <item>ESTAMOS RECONOCIENTOTE...</item>
+    <item>ESTAMOS RECONOCIENDOTE...</item>
+
+</string-array>
+    <string-array name="recog_act_2_fading">
+        <item>LISTO!</item>
+        <item>LISTO!</item>
+
+    </string-array>
+
+    <string-array name="birth_act_fading">
+        <item>FELIZ CUMPLEAÑOS!</item>
+        <item>FELIZ CUMPLEAÑOS!</item>
+
+    </string-array>
+
+    <string name="ruleta">RULETA DE PROMOCIONES</string>
+
+    <string name="foto">TOMATE UNA FOTO</string>
+
+</resources>

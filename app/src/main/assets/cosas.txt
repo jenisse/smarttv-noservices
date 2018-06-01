@@ -1,0 +1,2 @@
+//Si es que no funciona lo otro
+RESOURCES_PATH=getExternalFilesDir(Environment.DIRECTORY_PICTURES)
